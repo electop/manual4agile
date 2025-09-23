@@ -151,9 +151,9 @@ Q18. 우리의 Call to Action은? 원하는 답을 찾아드립니다.
 
 | 항목 | 링크/참고 |
 |------|-----------|
-| **Mosaic 설문 가이드** | `https://intranet.company.com/mosaic-guide` |
-| **Gauss Portal 사용법** | `https://gauss.portal.company.com/docs` |
-| **Elevator Pitch 작성 팁** | `https://www.inc.com/guides/elevator-pitch.html` |
+| **Mosaic 설문 가이드** | [MOSAIC Survey 소개자료, 사용자 매뉴얼](https://mosaic.sec.samsung.net/kms/comty.do?comtyId=1050965&menuId=9148309&postId=9148587&page=view&type=LIST&access=ADDRESS) |
+| **Gauss Portal 사용법** | [Gauss 매뉴얼 (ko)](https://genai.sec.samsung.net/public/contents-web/manual/gauss_user_manual/ko/index.html) |
+| **Elevator Pitch 작성 팁** | [How to Effectively Pitch Your Startup in Less in a Minute](https://www.inc.com/hillel-fuld/how-to-effectively-pitch-your-startup-in-less-in-a-minute.html) |
 | **문장 길이 측정** | `https://wordcounter.net` |
 
 > **작성 완료!** 이제 위 매뉴얼을 그대로 따라 하면 언제든 **핵심을 찌르는 1분 피치** 를 손쉽게 만들 수 있습니다. 🚀  
