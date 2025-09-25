@@ -1,5 +1,4 @@
 # MES AI Agent 팀 – Elevator Pitch 작성 매뉴얼  
-*(Markdown 형식)*  
 
 ---  
 
