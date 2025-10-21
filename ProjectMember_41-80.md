@@ -296,4 +296,3 @@
 |	SWC0079-2024-전사	|	 장다래 	|	darae.jang	|	DA	|		|	단기파견	|	 2024-05-01 	|	 2025-02-28 	|
 |	SWC0079-2024-전사	|	 이유정 	|	yuuj.lee	|	SR	|		|	단기파견	|	 2024-05-01 	|	 2025-02-28 	|
 |	SWC0080-2024-의료기기	|	NONE	|	NONE	|	NONE	|		|	NONE	|	NONE	|	NONE	|
-![Uploading image.png…]()
