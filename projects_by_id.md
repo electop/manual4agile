@@ -1297,7 +1297,7 @@ assignment_type:
 period: start: 2022-04-01
 end: 2023-12-31
 - name: 조민경
-knox_id: mk31.jo
+knox_id: mk21.jo
 department: DPC
 role: 
 assignment_type: 
